@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Deepak HM 👋
 
-<!--
-**deepakhm-dev/deepakhm-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Information Science Engineering Student | ☕ Java | 🌱 Spring Boot | ☁️ AWS
 
-Here are some ideas to get you started:
+I'm an Information Science Engineering student passionate about
+backend development, cloud technologies, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.E. Information Science Engineering
+- ☕ Learning Java
+- 🌱 Learning Spring Boot
+- 🗄️ MySQL | JPA | Hibernate
+- ☁️ Exploring AWS and Cloud
+- ⚙️ Learning Docker and DevOps
+- 🧠 Practicing DSA
+- 💻 Building real-world projects
+
+## 🛠️ Technologies
+
+Java • Spring Boot • MySQL • Git • GitHub • AWS • Docker
+
+## 📌 Projects
+
+- 🏦 Bank Management System
+- 🎓 Student Management System
+- 💰 FinTrack
+
+
